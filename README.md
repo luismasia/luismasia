@@ -1,13 +1,11 @@
 ## &nbsp;Bienvenidos a mi perfil de GitHub!
 ## 👨‍💻 &nbsp;Sobre mí
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+🎓 &nbsp;Estudiante de Ingeniería en Sistemas de Información en la UTN, con foco en desarrollo backend usando Python y Django.\
+💻 &nbsp;Desarrollo aplicaciones web completas siguiendo el modelo MTV: vistas basadas en clases (CBV), operaciones CRUD, autenticación, gestión de usuarios y optimización de consultas a bases de datos relacionales.\
+🌱 &nbsp;Sumando capacidades en análisis de sistemas, modelado de procesos (BPMN) y gestión de proyectos bajo metodologías ágiles y tradicionales.\
+🚚 &nbsp;Mi proyecto más reciente: un Sistema de Gestión de Flota Logística, una app Full Stack con Python, Django y Bootstrap, con máquinas de estados para automatizar asignaciones en tiempo real y consultas optimizadas vía Django ORM.\
+📄 &nbsp;Mirá mi CV o [LinkedIn](https://www.linkedin.com/in/luismasia/) para más detalles — ¡abierto a feedback, sugerencias y oportunidades!\
 
 ## 🛠 &nbsp;Tecnologías
 
@@ -35,5 +33,5 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/luismasia/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:lnicolasmasia@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:lnicolasmasia@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
