@@ -5,7 +5,7 @@
 💻 &nbsp;Desarrollo aplicaciones web completas siguiendo el modelo MTV: vistas basadas en clases (CBV), operaciones CRUD, autenticación, gestión de usuarios y optimización de consultas a bases de datos relacionales.\
 🌱 &nbsp;Sumando capacidades en análisis de sistemas, modelado de procesos (BPMN) y gestión de proyectos bajo metodologías ágiles y tradicionales.\
 🚚 &nbsp;Mi proyecto más reciente: un Sistema de Gestión de Flota Logística, una app Full Stack con Python, Django y Bootstrap, con máquinas de estados para automatizar asignaciones en tiempo real y consultas optimizadas vía Django ORM.\
-📄 &nbsp;Mirá mi CV o [LinkedIn](https://www.linkedin.com/in/luismasia/) para más detalles — ¡abierto a feedback, sugerencias y oportunidades!
+📄 &nbsp;Mira mi CV o [LinkedIn](https://www.linkedin.com/in/luismasia/) para más detalles — ¡abierto a feedback, sugerencias y oportunidades!
 
 ## 🛠 &nbsp;Tecnologías
 
